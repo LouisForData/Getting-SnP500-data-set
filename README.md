@@ -25,15 +25,15 @@ To run the notebook locally, you'll need to have Python installed along with the
     - scikit-learn
     - yfinance (optional for fetching updated financial data)
 
-*pip install pandas numpy matplotlib seaborn scikit-learn yfinance*
+pip install pandas numpy matplotlib seaborn scikit-learn yfinance
 
 **Usage**
 
     1. Clone the repository:
-      *git clone https://github.com/yourusername/sp500-analysis.git*
-      *cd sp500-analysi*
-    2. * Open the Jupyter Notebook: *
-       *jupyter notebook S&P500.ipynb*
+      git clone https://github.com/yourusername/sp500-analysis.git
+      cd sp500-analysi
+    2. Open the Jupyter Notebook: 
+       jupyter notebook S&P500.ipynb
 
     Run the cells in the notebook to see the analysis and results.
 
