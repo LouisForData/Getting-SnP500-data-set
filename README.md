@@ -25,7 +25,7 @@ To run the notebook locally, you'll need to have Python installed along with the
     - scikit-learn
     - yfinance (optional for fetching updated financial data)
 
-pip install pandas numpy matplotlib seaborn scikit-learn yfinance
+*pip install pandas numpy matplotlib seaborn scikit-learn yfinance*
 
 **Usage**
 
